@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//mediaCard-React/static/css/main.4b49065c.chunk.css",
-    "main.js": "//mediaCard-React/static/js/main.6243cf5e.chunk.js",
-    "main.js.map": "//mediaCard-React/static/js/main.6243cf5e.chunk.js.map",
-    "runtime-main.js": "//mediaCard-React/static/js/runtime-main.b37bbb31.js",
-    "runtime-main.js.map": "//mediaCard-React/static/js/runtime-main.b37bbb31.js.map",
-    "static/js/2.ab47e0ac.chunk.js": "//mediaCard-React/static/js/2.ab47e0ac.chunk.js",
-    "static/js/2.ab47e0ac.chunk.js.map": "//mediaCard-React/static/js/2.ab47e0ac.chunk.js.map",
-    "index.html": "//mediaCard-React/index.html",
-    "static/css/main.4b49065c.chunk.css.map": "//mediaCard-React/static/css/main.4b49065c.chunk.css.map",
-    "static/js/2.ab47e0ac.chunk.js.LICENSE.txt": "//mediaCard-React/static/js/2.ab47e0ac.chunk.js.LICENSE.txt"
+    "main.css": "/mediaCard-React/static/css/main.09db7bd6.chunk.css",
+    "main.js": "/mediaCard-React/static/js/main.6243cf5e.chunk.js",
+    "main.js.map": "/mediaCard-React/static/js/main.6243cf5e.chunk.js.map",
+    "runtime-main.js": "/mediaCard-React/static/js/runtime-main.09393220.js",
+    "runtime-main.js.map": "/mediaCard-React/static/js/runtime-main.09393220.js.map",
+    "static/js/2.ab47e0ac.chunk.js": "/mediaCard-React/static/js/2.ab47e0ac.chunk.js",
+    "static/js/2.ab47e0ac.chunk.js.map": "/mediaCard-React/static/js/2.ab47e0ac.chunk.js.map",
+    "index.html": "/mediaCard-React/index.html",
+    "static/css/main.09db7bd6.chunk.css.map": "/mediaCard-React/static/css/main.09db7bd6.chunk.css.map",
+    "static/js/2.ab47e0ac.chunk.js.LICENSE.txt": "/mediaCard-React/static/js/2.ab47e0ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b37bbb31.js",
+    "static/js/runtime-main.09393220.js",
     "static/js/2.ab47e0ac.chunk.js",
-    "static/css/main.4b49065c.chunk.css",
+    "static/css/main.09db7bd6.chunk.css",
     "static/js/main.6243cf5e.chunk.js"
   ]
 }
